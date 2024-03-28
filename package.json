@@ -1,0 +1,68 @@
+{
+  "name": "adosinarath2.generator",
+  "version": "1.0.0",
+  "description": "Enhances mean calculation efficiency in Oolong Phase 3, providing accelerated processes for random number analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "adosinarath2.generator": "^1.0.0",
+    "inryeesprob": "^1.0.0",
+    "zzischuck8-measurement": "^1.0.0",
+    "neioana2_derivatives": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siliadosinarath264/adosinarath2.generator.git"
+  },
+  "homepage": "https://github.com/siliadosinarath264/adosinarath2.generator/blob/main/README.md",
+
+  "issues": "https://github.com/siliadosinarath264/adosinarath2.generator/issues",
+
+  "keywords": ["random", "deviation", "generator", "calculus", "derivatives"],
+
+
+  "author": "siliadosinarath264",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
